@@ -1,5 +1,5 @@
 # MCA Semester I - Practical 7: Inheritance, Composition & Packaging
-**Course:** Python & Relational Programming (Unit II / CO2)  
+**Course:** Python & RDBMS
 **Student:** Sahil Surendra Shirke  
 
 ## Design Note (IS-A, HAS-A, `super()`, Overriding & Properties)
